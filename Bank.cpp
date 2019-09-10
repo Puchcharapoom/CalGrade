@@ -44,23 +44,3 @@ char Calgrade(int score)
 		return ('F');
 }
 
-/*#include<iostream>
-#include<string>
-using namespace std;
-void SS(int &score);
-int main()
-{
-	int score;
-	cout << "Enter score : ";
-	cin >> score;
-	SS(score);
-	cout << "Score = " << score << endl;
-	return 0;
-}
-
-void SS(int &score)
-{
-	score = 10;
-}*/
-
-
